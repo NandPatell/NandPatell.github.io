@@ -549,6 +549,27 @@ section ul li.active {
     }
 }
 
+/* myRide */
+/* Styling for MyRide image */
+.myride-img {
+    width: 40px; /* Adjust the size of the image */
+    height: 40px; /* Adjust the size of the image */
+    object-fit: cover;
+    border-radius: 50%; /* Optional: gives the image a circular shape */
+  }
+  
+  .title .experiencetitle {
+    font-size: 1.2rem; /* Ensure the title font size is consistent */
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Optional: Adjust spacing if needed */
+  .title img {
+    margin-right: 10px; /* Space between image and title */
+  }
+  
+
 
 /* Mitrabiotech Page */
 
